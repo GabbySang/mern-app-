@@ -48,7 +48,7 @@
   },
   "proxy": "http://localhost:5000",
   "devDependencies": {
-    "jquery": "^1.9.1",
+    "jquery": "^3.4.0",
     "typescript": "^3.7.5"
   }
 }
